@@ -1,0 +1,12 @@
+moc_*
+ui_*
+
+*.o
+*.swp
+
+Makefile
+bfuzz
+
+a.out
+*.log
+tmp
